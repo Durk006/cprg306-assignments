@@ -21,6 +21,9 @@ export default function Page() {
         <li>
           <Link className={linkStyles} href="week-5">Week 5</Link>
         </li>
+        <li>
+          <Link className={linkStyles} href="week-6">Week 6</Link>
+        </li>
       </ul>
 
     </main>
